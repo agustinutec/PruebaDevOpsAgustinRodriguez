@@ -1,0 +1,1 @@
+Se aprende mucho sobre git y jenkins, tambien es buena la informacion sobre las tareas de despliegue y los pipeline
